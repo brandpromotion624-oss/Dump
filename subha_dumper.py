@@ -448,4 +448,3 @@ class UltimateRootAnnihilator:
 if __name__ == "__main__":
     annihilator = UltimateRootAnnihilator()
     annihilator.run_annihilation()
-```
